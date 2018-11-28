@@ -6,11 +6,11 @@ Eboot18:'https://www.dropbox.com/s/nix7017gcddd0u6/Debug%20eboot%201.03%20BY%20M
 Eboot17:'https://g.top4top.net/f_455vtdga1.rar?key=8c9886ce981d6ef06d02b7dd5af4faae7e95979f',
 Eboot19:'',
 Messagefifa:'',
-changeLogfifa:'          -Ability to search any goalkeeper in the game only by textbox
-                         -Add Super Team French / Italy
-                         -You can play with super Team
-                         -Add to save and load team
-                         -Save last searched goalkeeper at startup of the tool
-                         -Code improvement',
+changeLogfifa:'          -Ability to search any goalkeeper in the game only by textbox\n
+                         -Add Super Team French / Italy\n
+                         -You can play with super Team\n
+                         -Add to save and load team\n
+                         -Save last searched goalkeeper at startup of the tool\n
+                         -Code improvement',\n
  isClosefifa:'true'
 }
