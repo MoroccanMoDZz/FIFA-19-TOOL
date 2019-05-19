@@ -70,11 +70,32 @@ Eboot18:'https://www.dropbox.com/s/nix7017gcddd0u6/Debug%20eboot%201.03%20BY%20M
 Eboot17:'https://g.top4top.net/f_455vtdga1.rar?key=8c9886ce981d6ef06d02b7dd5af4faae7e95979f',
 Eboot19:'',
 Messagefifa:'',
-changeLogfifa:'	-Weather Editor Add Support For Fifa19 (BLES-BLUS)
-	-Ability To play with ultimate team changes 
-	-Ability to search goalkeepers many times
-	-Code improvement
-	-Download Documentation From README.TXT',
+changeLogfifa:'update 2.0 : Release 20/05/2019
+                  -Add support for Super slim Consoles (HEN PS3)
+                  -Add PS3MAPI Target Connection
+                  -Add console Manager (FTP-Webman configuration - load games...)
+                  -Add Modded Eboot For Cex Dex and Hen Consoles including (Fix Blackscreen -
+                   99 Skills - 5 stars - 99 chemistry)
+                   -Fix Error Authentication to the tool on windows 8 & 10
+                   -Improve method of apply changes on players cards...
+                    -Fix Tool hiddden at the startup
+                    -Add Traduction Arabe English
+                     -Ability to save team many times
+                   -Code Improvement 
+		   الاصدار 2.0:بتاريخ 20/05/2019
+-المميزات: -البرنامج يدعم أجهزة السوبر سليم HEN
+-اضافة PS3MAPI للاتصال بالجهاز
+-اضافة ادارة الجهاز (تفقد الحرارة -
+اعدادات الويبمان - FTP....
+-اضافة ايبوتات مهكرة لأجهزة cex dex hen
+قوى 99 5 نجوم وتناغم 99
+-اصلاح تسجيل الدخول في البرنامج على 
+أجهزة الويندوز 8 و 10
+-تحسين طريقة تفعيل تغييرات الاعبين
+-اصلاح اختفاء البرنامج على بعض الأجهزة 
+-اضافة الترجمة عربي انجليزي
+-امكانية حفظ الفريق عدة مرات 
+-تحسين جودة البرنامج',
 user27:'',
 user28:'',
 user29:'',
